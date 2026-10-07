@@ -104,13 +104,19 @@ Group results into: Pakistan Onsite (Lahore/Islamabad), Pakistan Remote, UK Onsi
 Starting 2026-10-06, applying directly to shortlisted jobs using Chrome browser automation, under these rules:
 
 - User is already logged in (session cookies present) to **LinkedIn, Rozee.pk, and Indeed** in Chrome — these sessions are reused as-is. Claude does **not** create new accounts or enter any password on any site (hard boundary, never crossed even with user permission).
-- For each job: open the listing, open the application form, fill in all fields from the resume (name, email, phone, experience, tech stack, cover-letter/screening questions, resume file upload) and the compensation target (PKR 230K+ / role-appropriate market rate).
+- For each job: open the listing, open the application form, fill in all fields from the resume (name, email, phone, experience, tech stack, cover-letter/screening questions, resume file upload) and the compensation target (PKR 250K+ / role-appropriate market rate). Ready-to-paste answers and cover letters: `applications/application-kit.md`.
 - **Claude stops immediately before clicking the final Submit/Apply button** on every application, and tells the user in chat which job is ready, with a quick summary of what was filled in.
 - User reviews (in browser or via the chat summary) and tells Claude to proceed — Claude then clicks Submit.
 - Applications requiring a NEW account on a site the user isn't logged into, or a company ATS that demands account creation, are skipped and flagged to the user instead of attempted.
 
 ### Application Log
 (updated as applications are filled/submitted)
+- 2026-10-07 (cloud session): No applications submitted. This session runs in a cloud container with no Claude in Chrome connection, so logged-in LinkedIn/Indeed sessions can't be used, and the network policy blocks Indeed, Arc and freehire. Built `applications/application-kit.md` (form answers, screening answers, 3 cover-letter templates). New leads from search snippets, **not yet verified on the listing page**:
+  - Junior Full Stack Developer (NextJS/React/.NET, 1–2 yrs) — Arhpez Technologies — Islamabad — **best YOE fit, check first**
+  - MERN Full Stack Developer — Walee Financial Services — Lahore
+  - .NET Core & React Full-Stack Developer (backend-heavy) — via Zoho Recruit (freehire.me) — Islamabad
+  - Senior/Principal Software Engineer (.NET + React, 3–7 yrs) — Creative Chaos — Islamabad (stretch)
+  - Full Stack Developer (.NET + React, 5+ yrs) — Convo — Islamabad (stretch)
 - 2026-10-06: SUBMITTED — Backend Developer (Remote), Hire Feed, Pakistan — via LinkedIn Easy Apply, user confirmed submit.
 - 2026-10-06: FAILED — Full Stack .NET Developer, DPL, Islamabad — Rozee apply flow (apply.rozeegpt.ai) redirected to "Job expired" on BeBee; the listing is stale even though still shown in Rozee search. Not submitted. Also noted: this flow asks for CNIC Number (Pakistani national ID) which Claude does not have and will not fabricate — would need user to supply it for any future Rozee-sourced application.
 - 2026-10-06: Salary expectation updated to PKR 250,000+/month (was 230K). User also directed: stop using Rozee.pk for applications going forward — use Indeed instead.
