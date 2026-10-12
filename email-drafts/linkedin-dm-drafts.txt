@@ -1,0 +1,59 @@
+LinkedIn DM / Connection Note Drafts — compiled 2026-10-12
+(Drafts only — nothing sent. Review and send manually from your own LinkedIn account.)
+
+====================================================================
+1. MOSAFIR — MERN Stack Development Executive (Islamabad, 2+ yrs)
+   STRONG MATCH
+====================================================================
+Posted by: AbdulAziz Faisal Tungekar (shared the opening, not the actual recruiter — no
+direct named HR LinkedIn profile found in the post). Apply by email instead:
+mahnoor.sayed@mosafir.pk (see mosafir-mern-stack-executive.md).
+
+If you want to also reach out on LinkedIn, search "Mahnoor Sayed Mosafir" or Mosafir's
+company page to find the right person first — connection note (200 char max):
+
+"Hi Mahnoor, saw the MERN Stack Executive role at Mosafir. I'm a full-stack dev
+(React/Node/Mongo/Postgres, 2+ yrs) and just emailed my resume — would love to connect."
+
+====================================================================
+2. DEVLINE SOLUTIONS — AI Full-Stack Developer (Lahore, 2+ yrs)
+   PARTIAL MATCH (no LLM/Python experience — flagged honestly in email)
+====================================================================
+Posted by: Shahnood Sajid — Talent Acquisition Lead, Devline Solutions (named LinkedIn
+profile, 2nd-degree connection, found via post).
+
+Connection note (200 char max):
+"Hi Shahnood, saw your Devline AI Full-Stack post. I'm a 2+ yr full-stack dev
+(React/Node) — emailed my resume to careers@. Would appreciate a connect!"
+
+Follow-up DM (after connecting, or via InMail):
+"Hi Shahnood, thanks for connecting. I just applied to the AI Full-Stack Developer role
+at Devline (careers@devlinesolutions.com) — resume attached there. My core strength is
+full-stack (React, Node.js, ASP.NET Core, PostgreSQL/MongoDB, JWT auth) rather than the
+Python/LLM side specifically, but I pick up new stacks quickly and would love to be
+considered if that's workable. Happy to share more about my background — thanks for your
+time!"
+
+====================================================================
+3. EXEC9 — Full Stack Developer (AI Focused) (Lahore, 2-4 yrs)
+   PARTIAL MATCH (no LLM/AI-agent experience — flagged honestly in email)
+====================================================================
+Posted by: AbdulAziz Faisal Tungekar / "Pakistan IT Jobs" page (sharing on behalf of
+Aqsa Waseem/Exec9) — no direct named HR LinkedIn profile found. Apply by email instead:
+hr@exec9.ae (see exec9-full-stack-ai-focused.md).
+
+If a specific Exec9 HR profile turns up later, use:
+"Hi, saw the Full Stack Developer (AI Focused) post for Exec9. I'm a full-stack dev
+(React/Next.js/Node, 2+ yrs) and just emailed hr@exec9.ae — would love to connect."
+
+====================================================================
+SKIPPED (posted by HR/recruiters but not applied — logged for reference)
+====================================================================
+- AnyShift Belgium — Senior Full-Stack Developer (MERN), Lahore — requires 5-6+ yrs,
+  far above Mamoon's 2 yrs. Contacts if reconsidered: sania@anyshift.com / faraz@anyshift.com
+- Digiint (via Shahid Ahmed) — Full Stack Developer (Frontend Heavy), Islamabad —
+  requires 5+ yrs, Angular + Laravel (stack mismatch). Contact: huzaifa.naveed@digiint.com
+- DigitalTribe (via Tech Jobs Radar) — Backend Engineer, Lahore — requires 4-5 yrs.
+  Contact: narmeen.jalil@digitaltribe.dev
+- Digital Pocket — Senior Magento 2 Full-Stack Developer, Lahore — senior + Magento/PHP
+  stack mismatch. Contact: DigitalPocket197@gmail.com
